@@ -16,14 +16,14 @@ Este proyecto es un **portafolio personal** desarrollado por **Alexis Alderete**
 ### **🔧 Instalación Local**  
 1. **Clona el repositorio**:  
    ```bash
-   git clone https://github.com/alexisalderete/portfolio.git
+   git clone https://github.com/alexisalderete/portafolio-cloud.git
    ```
 2. **Abre el proyecto en tu editor de código**.  
 3. **Ejecútalo en un servidor local** (puedes usar Live Server en VSCode o `http-server`).  
 
 ### **🌐 Acceso Online**  
 Si está desplegado en un hosting (como GitHub Pages, Netlify o Vercel), puedes acceder directamente desde:  
-🔗 **[https://alexisalderete.dev](https://alexisalderete.dev)** *(ejemplo ficticio, reemplazar con el link real)*  
+🔗 **[https://alexisalderete.dev](https://alexisalderete.dev)**  
 
 ---
 
