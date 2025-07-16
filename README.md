@@ -29,16 +29,13 @@ Si está desplegado en un hosting (como GitHub Pages, Netlify o Vercel), puedes 
 
 ## **🖼️ Capturas de Pantalla**  
 
-### **📱 Vista Móvil**  
-![Mobile View](https://via.placeholder.com/300x500/6366f1/ffffff?text=Mobile+View) *(Ejemplo: reemplazar con imagen real)*  
-
 ### **💻 Vista Desktop**  
-![Desktop View](https://via.placeholder.com/800x500/6366f1/ffffff?text=Desktop+View)  
+<img width="1898" height="944" alt="image" src="https://github.com/user-attachments/assets/bf61b534-6f48-46b8-bc06-66ba506a1873" />
+<img width="1901" height="942" alt="image" src="https://github.com/user-attachments/assets/587e5ede-8f1b-45cc-83f4-5fada1e4d850" />
+<img width="1896" height="934" alt="image" src="https://github.com/user-attachments/assets/fcd01c96-3682-40e6-8693-c56f976db4e9" />
+<img width="1895" height="943" alt="image" src="https://github.com/user-attachments/assets/3d45469b-669f-4d70-bb69-11ffdd4fb0d9" />
 
-### **📧 Formulario de Contacto**  
-![Contact Form](https://via.placeholder.com/600x400/6366f1/ffffff?text=Contact+Form)  
 
-*(Nota: Reemplazar los placeholders con capturas reales del proyecto)*  
 
 ---
 
