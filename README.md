@@ -52,7 +52,7 @@ Desplegado desde netlify:
 ✔️ **Tipografía legible** con jerarquía visual clara  
 
 
-# **👨‍💻 Autor del Proyecto**  
+## **👨‍💻 Autor del Proyecto**  
 
 ## **Alexis Alderete**  
 *Desarrollador Frontend | Diseñador UX/UI*  
