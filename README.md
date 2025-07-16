@@ -54,7 +54,7 @@ Desplegado desde netlify:
 
 ## **👨‍💻 Autor del Proyecto**  
 
-## **Alexis Alderete**  
+## **Alexis Rolando Alderete Araujo**  
 *Desarrollador Frontend | Diseñador UX/UI*  
 
 ### **🎨 Diseño y Desarrollo**  
