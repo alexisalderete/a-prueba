@@ -27,13 +27,29 @@ Desplegado desde netlify:
 
 ---
 
-## **🖼️ Capturas de Pantalla**  
+# **🖼️ Capturas de Pantalla - Vista Desktop**
 
-### **💻 Vista Desktop**  
-<img width="1898" height="944" alt="image" src="https://github.com/user-attachments/assets/bf61b534-6f48-46b8-bc06-66ba506a1873" />
-<img width="1901" height="942" alt="image" src="https://github.com/user-attachments/assets/587e5ede-8f1b-45cc-83f4-5fada1e4d850" />
-<img width="1896" height="934" alt="image" src="https://github.com/user-attachments/assets/fcd01c96-3682-40e6-8693-c56f976db4e9" />
-<img width="1895" height="943" alt="image" src="https://github.com/user-attachments/assets/3d45469b-669f-4d70-bb69-11ffdd4fb0d9" />
+## **Sección Principal**
+![Vista Desktop - Hero Section](https://github.com/user-attachments/assets/bf61b534-6f48-46b8-bc06-66ba506a1873)
+*Sección de inicio con presentación personal y botones de acción*
+
+## **Sobre Mí**
+![Vista Desktop - About Section](https://github.com/user-attachments/assets/587e5ede-8f1b-45cc-83f4-5fada1e4d850)
+*Sección que muestra habilidades técnicas con diseño de cards interactivas*
+
+## **Proyectos Destacados**
+![Vista Desktop - Projects Section](https://github.com/user-attachments/assets/fcd01c96-3682-40e6-8693-c56f976db4e9)
+*Galeria de proyectos con efecto hover y detalles técnicos*
+
+## **Formulario de Contacto**
+![Vista Desktop - Contact Section](https://github.com/user-attachments/assets/3d45469b-669f-4d70-bb69-11ffdd4fb0d9)
+*Formulario funcional con validación y diseño moderno*
+
+### **Características Visuales Destacadas:**
+✔️ **Diseño limpio y profesional** con paleta de colores coherente  
+✔️ **Layout completamente responsive** que se adapta a diferentes pantallas  
+✔️ **Micro-interacciones** en botones y elementos navegables  
+✔️ **Tipografía legible** con jerarquía visual clara  
 
 
 # **👨‍💻 Autor del Proyecto**  
