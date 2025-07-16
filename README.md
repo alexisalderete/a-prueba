@@ -36,22 +36,46 @@ Desplegado desde netlify:
 <img width="1895" height="943" alt="image" src="https://github.com/user-attachments/assets/3d45469b-669f-4d70-bb69-11ffdd4fb0d9" />
 
 
-## **👨‍💻 Autor**  
+# **👨‍💻 Autor del Proyecto**  
 
-### **🔹 Autor Principal**  
-- **Alexis Alderete**
-- *Diseño UX/UI*
-- *Desarrollo de la sección de:*
--    NavBar
--    Sobre mí
--    Proyectos destacados
--    Contacto
-  - 📧 *alexis.alderete2002@gmail.com*  
-  - 🔗 *[LinkedIn](https://www.linkedin.com/in/alexis-alderete)*  
-  - 💻 *[GitHub](https://github.com/alexisalderete)*  
+## **Alexis Alderete**  
+*Desarrollador Frontend | Diseñador UX/UI*  
 
+### **🎨 Diseño y Desarrollo**  
+Realicé íntegramente el diseño y desarrollo de este portafolio, incluyendo:  
 
-*Desarrollado íntegramente por Alexis Alderete*  
+#### **🛠️ Desarrollo Frontend**  
+- **NavBar**: Menú responsive con efectos de hover y versión móvil.  
+- **Sección "Sobre mí"**: Diseño de cards de habilidades con animaciones.  
+- **Proyectos destacados**: Maquetación interactiva con filtros y detalles técnicos.  
+- **Formulario de contacto**: Validación en tiempo real y notificaciones dinámicas.  
+
+#### **✨ Diseño UX/UI**  
+- **Wireframes y prototipado** en Figma.  
+- **Sistema de diseño**: Paleta de colores, tipografía y componentes reutilizables.  
+- **Micro-interacciones**: Efectos hover, transiciones y feedback visual.  
+
+---
+
+### **📩 Contacto**  
+📧 **Correo**: [alexis.alderete2002@gmail.com](mailto:alexis.alderete2002@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/alexis-alderete](https://www.linkedin.com/in/alexis-alderete)  
+💻 **GitHub**: [github.com/alexisalderete](https://github.com/alexisalderete)  
+
+---
+
+### **💡 Nota**  
+Este proyecto fue **desarrollado y diseñado en su totalidad por mí**, demostrando mis habilidades en:  
+✔️ **Maquetación con HTML/CSS** (Flexbox, Grid, animaciones CSS).  
+✔️ **JavaScript moderno** (ES6+, manipulación del DOM, formularios interactivos).  
+✔️ **Principios de UX/UI** (responsive design, accesibilidad, experiencia de usuario).  
+
+*(Ejemplo de portfolio personal 100% autónomo — ideal para reclutadores y clientes)* 🚀  
+
+--- 
+
+✨ *"Código limpio, diseño intuitivo y resultados efectivos."*
+
 
 ---
 
