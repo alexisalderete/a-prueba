@@ -23,7 +23,7 @@ Este proyecto es un **portafolio personal** desarrollado por **Alexis Alderete**
 
 ### **🌐 Acceso Online**  
 Si está desplegado en un hosting (como GitHub Pages, Netlify o Vercel), puedes acceder directamente desde:  
-🔗 **[https://alexisalderete.dev](https://alexisalderete.dev)**  
+🔗 **https://portafolio-alexisalderete.netlify.app/**  
 
 ---
 
