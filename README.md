@@ -22,7 +22,7 @@ Este proyecto es un **portafolio personal** desarrollado por **Alexis Alderete**
 3. **Ejecútalo en un servidor local** (puedes usar Live Server en VSCode o `http-server`).  
 
 ### **🌐 Acceso Online**  
-Si está desplegado en un hosting (como GitHub Pages, Netlify o Vercel), puedes acceder directamente desde:  
+Desplegado desde netlify:
 🔗 **https://portafolio-alexisalderete.netlify.app/**  
 
 ---
@@ -36,34 +36,22 @@ Si está desplegado en un hosting (como GitHub Pages, Netlify o Vercel), puedes 
 <img width="1895" height="943" alt="image" src="https://github.com/user-attachments/assets/3d45469b-669f-4d70-bb69-11ffdd4fb0d9" />
 
 
-
----
-
-## **🔗 Link al Sitio Desplegado**  
-🌍 **URL:** [https://alexisalderete.dev](https://alexisalderete.dev) *(ejemplo, actualizar con el enlace real)*  
-
----
-
-## **👨‍💻 Contribución y Autores**  
+## **👨‍💻 Autor**  
 
 ### **🔹 Autor Principal**  
-- **Alexis Alderete**  
+- **Alexis Alderete**
+- *Diseño UX/UI*
+- *Desarrollo de la sección de:*
+-    NavBar
+-    Sobre mí
+-    Proyectos destacados
+-    Contacto
   - 📧 *alexis.alderete2002@gmail.com*  
   - 🔗 *[LinkedIn](https://www.linkedin.com/in/alexis-alderete)*  
   - 💻 *[GitHub](https://github.com/alexisalderete)*  
 
-### **🔹 Colaboradores (si aplica)**  
-*(Ejemplo: Si alguien más contribuyó, mencionarlo aquí con su rol)*  
-- **Diseño UX/UI**: *Nombre del colaborador*  
-- **Revisión de código**: *Nombre del colaborador*  
 
-*(Si el proyecto fue 100% individual, aclarar: "Desarrollado íntegramente por Alexis Alderete")*  
-
----
-
-## **📜 Licencia**  
-Este proyecto está bajo la licencia **MIT**.  
-📄 *Ver [LICENSE](LICENSE) para más detalles.*  
+*Desarrollado íntegramente por Alexis Alderete*  
 
 ---
 
